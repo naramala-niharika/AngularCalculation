@@ -32,7 +32,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-Rectangle: Rectangle.components.html Coding:
+##Rectangle: Rectangle.components.html Coding:
 <style>
     h2{
 background-color: rgb(11, 245, 245);
