@@ -35,8 +35,11 @@ Publish the website in the given URL.
 Rectangle: Rectangle.components.html Coding:
 
 <style>
+    
     h2{
+    
 background-color: rgb(11, 245, 245);
+    
 color: rgb(241, 77, 211);
 }
 .container {
